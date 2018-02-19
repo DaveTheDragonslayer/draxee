@@ -1,1 +1,19 @@
-[{"name":"Walk_000","x":0,"y":209,"width":329,"height":208},{"name":"Walk_001","x":660,"y":0,"width":329,"height":208},{"name":"Walk_003","x":0,"y":418,"width":329,"height":208},{"name":"Walk_004","x":330,"y":0,"width":329,"height":208},{"name":"Walk_002","x":330,"y":209,"width":329,"height":208},{"name":"Walk_006","x":330,"y":418,"width":329,"height":208},{"name":"Walk_005","x":0,"y":627,"width":329,"height":208},{"name":"Walk_007","x":330,"y":627,"width":329,"height":208},{"name":"Walk_008","x":0,"y":0,"width":329,"height":208},{"name":"Walk_009","x":660,"y":209,"width":329,"height":208},{"name":"Walk_010","x":660,"y":418,"width":329,"height":208},{"name":"Walk_011","x":660,"y":627,"width":329,"height":208},{"name":"Walk_012","x":0,"y":836,"width":329,"height":208},{"name":"Walk_013","x":330,"y":836,"width":329,"height":208},{"name":"Walk_014","x":660,"y":836,"width":329,"height":208},{"name":"Walk_015","x":0,"y":1045,"width":329,"height":208}]
+{"frames":
+    [
+    {"filename":"Walk_000","frame": {"x":0,"y":209,"w":329,"h":208}},
+    {"filename":"Walk_001","frame": {"x":660,"y":0,"w":329,"h":208}},
+    {"filename":"Walk_003","frame": {"x":0,"y":418,"w":329,"h":208}},
+    {"filename":"Walk_004","frame": {"x":330,"y":0,"w":329,"h":208}},
+    {"filename":"Walk_002","frame": {"x":330,"y":209,"w":329,"h":208}},
+    {"filename":"Walk_006","frame": {"x":330,"y":418,"w":329,"h":208}},
+    {"filename":"Walk_005","frame": {"x":0,"y":627,"w":329,"h":208}},
+    {"filename":"Walk_007","frame": {"x":330,"y":627,"w":329,"h":208}},
+    {"filename":"Walk_008","frame": {"x":0,"y":0,"w":329,"h":208}},
+    {"filename":"Walk_009","frame": {"x":660,"y":209,"w":329,"h":208}},
+    {"filename":"Walk_010","frame": {"x":660,"y":418,"w":329,"h":208}},
+    {"filename":"Walk_011","frame": {"x":660,"y":627,"w":329,"h":208}},
+    {"filename":"Walk_012","frame": {"x":0,"y":836,"w":329,"h":208}},
+    {"filename":"Walk_013","frame": {"x":330,"y":836,"w":329,"h":208}},
+    {"filename":"Walk_014","frame": {"x":660,"y":836,"w":329,"h":208}},
+    {"filename":"Walk_015","frame": {"x":0,"y":1045,"w":329,"h":208}}
+]}
